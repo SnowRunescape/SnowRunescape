@@ -1,3 +1,3 @@
 ### ⚡ Hi there 👋
 
-<img src="https://i.imgur.com/Rq8xSZZ.png" style="max-width: 300px;">
+I'm Founder to <a href="https://snowdev.com.br">SnowDev</a> and <a href="https://minecart.com.br">Minecart</a>.
