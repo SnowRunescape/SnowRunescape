@@ -36,9 +36,15 @@ I'm Founder to <a href="https://snowdev.com.br">SnowDev</a> and <a href="https:/
     - Skins SnowDev is a Minecraft Mod restores skins in versions 1.5.x - 1.7.x (versions that MOJANG no longer supports), and the difference from other Mods is that it allows us to have even if you don't have original Minecraft. a skin, just create an account on the site and choose a skin.
   - [forum.snowdev.com.br](https://forum.snowdev.com.br/)
     - Forum SnowDev is a forum that was created with the intention of gaining experience and turning it into a repository of Minecraft macro codes.
+
+  ## ⚒️&nbsp; My projects personal
 </div>
 
-## 
+## 🔥&nbsp; What am I studying?
+
+- Eloquent ORM
+- CI/CD
+- Docker
 
 <div>
   <p align="center">
