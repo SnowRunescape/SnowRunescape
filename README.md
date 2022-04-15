@@ -28,7 +28,7 @@ I'm Founder to <a href="https://snowdev.com.br">SnowDev</a> and <a href="https:/
 
   ## ⚒️&nbsp; My projects personal
 
-  - [Minecart.com.br](https://minecart.com.br/)
+  - [minecart.com.br](https://minecart.com.br/)
     - Minecart is a virtual store with a panel that allows you to customize the site's images and colors, choose templates, configure products, track transactions, automatically deliver products, and transaction reports.
   - [mcstatus.snowdev.com.br](https://mcstatus.snowdev.com.br/)
     - McStatus is an API where it is possible to consume the status of Minecraft servers for free, with information if it is online or not, number of players online, maximum number of players, latency and favicon.
