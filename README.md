@@ -26,7 +26,7 @@ I'm Founder to <a href="https://snowdev.com.br">SnowDev</a> and <a href="https:/
   
   <br>
 
-  ## ⚒️&nbsp; My projects personal
+  ## ⚒️&nbsp; My personal projects
 
   - [minecart.com.br](https://minecart.com.br/)
     - Minecart is a virtual store with a panel that allows you to customize the site's images and colors, choose templates, configure products, track transactions, automatically deliver products, and transaction reports.
