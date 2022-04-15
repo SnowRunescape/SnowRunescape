@@ -37,14 +37,12 @@ I'm Founder to <a href="https://snowdev.com.br">SnowDev</a> and <a href="https:/
   - [forum.snowdev.com.br](https://forum.snowdev.com.br/)
     - Forum SnowDev is a forum that was created with the intention of gaining experience and turning it into a repository of Minecraft macro codes.
 
-  ## ⚒️&nbsp; My projects personal
+  ## 🔥&nbsp; What am I studying?
+  
+  - Eloquent ORM
+  - CI/CD
+  - Docker
 </div>
-
-## 🔥&nbsp; What am I studying?
-
-- Eloquent ORM
-- CI/CD
-- Docker
 
 <div>
   <p align="center">
