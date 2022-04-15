@@ -42,7 +42,7 @@ I'm Founder to <a href="https://snowdev.com.br">SnowDev</a> and <a href="https:/
 
 <div>
   <p align="center">
-    <a href="https://www.linkedin.com/in/vitoria-angel-silva-130003196/">
+    <a href="https://www.linkedin.com/in/brunocaiitano/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
