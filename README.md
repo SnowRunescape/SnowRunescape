@@ -43,6 +43,7 @@ I'm Founder to <a href="https://snowdev.com.br">SnowDev</a> and <a href="https:/
   - Eloquent ORM
   - CI/CD
   - Docker
+  - GraphQL
 </div>
 
 <div>
