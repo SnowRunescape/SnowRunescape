@@ -41,7 +41,7 @@ I'm **Bruno**, a **Senior Software Engineer** and founder of **<a href="https://
   - [forum.snowdev.com.br](https://forum.snowdev.com.br/)
     - Forum SnowDev is a forum that was created with the intention of gaining experience and turning it into a repository of Minecraft macro codes.
 
-  ### What am I studying?
+  ### 🔥 What am I studying?
   
   - Eloquent ORM
   - CI/CD
