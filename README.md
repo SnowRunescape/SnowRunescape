@@ -1,15 +1,16 @@
-### ⚡ Hi there 👋
+## ⚡ Hi there 👋
 
-I'm Founder to <a href="https://snowdev.com.br">SnowDev</a> and <a href="https://minecart.com.br">Minecart</a>.
+I'm **Bruno**, a **Senior Software Engineer** and founder of **<a href="https://snowdev.com.br">SnowDev</a>** and **<a href="https://minecart.com.br">Minecart</a>**.
 
 <div>
-  <a  href="https://discord.snowdev.com.br"><img align="right" src="https://discordapp.com/api/guilds/451861943364616192/widget.png?style=banner4"/></a>
+  <a href="https://discord.snowdev.com.br"><img align="right" src="https://discordapp.com/api/guilds/451861943364616192/widget.png?style=banner4"/></a>
 
-  ## Current working
+  ### 🧑‍💻 Current Work
 
-  - [Estuda.com](https://estuda.com/)
+  - **Estuda.com** — Large-scale education platform  
+    Working mainly with **Laravel, PHP, Redis, AWS, queues, and scalable architectures**
 
-  ## 🗒️&nbsp; My experiences currently
+  ### 🗒️ Experience
 
   <p align="left">
     <img align="center" alt="PHP" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" style="max-width:100%;">
@@ -29,7 +30,7 @@ I'm Founder to <a href="https://snowdev.com.br">SnowDev</a> and <a href="https:/
   
   <br>
 
-  ## ⚒️&nbsp; My personal projects
+  ### ⚒️ Personal Projects
 
   - [minecart.com.br](https://minecart.com.br/)
     - Minecart is a virtual store with a panel that allows you to customize the site's images and colors, choose templates, configure products, track transactions, automatically deliver products, and transaction reports.
